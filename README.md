@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Divya Ponda and I am a current Sophomore at the University of Michigan - Ann Arbor pursuing a dual degree in Computer Engineering and Industrial Operations Engineering. 
 <!--
 **divponda/divponda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
