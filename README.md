@@ -8,7 +8,7 @@ Some things about me:
 
 🔭 The intersection between technology and business excites me, and my strengths include analytical thinking and effective communication. I am actively seeking ways to learn, grow, and tackle complex problems! <br/> 
 
-😄 In my free time I love to cook good food, practice yoga, play poker (in moderation), and travel to cool places! <br/> 
+😄 In my free time I love to cook good food, practice yoga, play chess and poker, and travel to cool places! <br/> 
 
 📫 If you have any questions or want to chat please feel free to email me at divponda@umich.edu, or to connect with me on LinkedIn :)
 
