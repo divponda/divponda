@@ -4,7 +4,7 @@ Thanks for checking out my Github!
 
 Some things about me: 
 
-✨ I am a current Sophomore at the University of Michigan pursuing a dual degree in Computer Engineering and Industrial Operations Engineering. <br/> 
+✨ I am a current Sophomore at the University of Michigan pursuing a degree in Computer Engineering and a minor in Applied Mathematics. <br/> 
 
 🔭 The intersection between technology and business excites me, and my strengths include analytical thinking and effective communication. I am actively seeking ways to learn, grow, and tackle complex problems! <br/> 
 
