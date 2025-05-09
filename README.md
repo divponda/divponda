@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Divya Ponda
+# Hi! I'm Divya Ponda.
 
 ### 👩🏽‍💻 Computer Engineering @ University of Michigan
 
