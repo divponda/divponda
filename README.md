@@ -1,15 +1,13 @@
 # 👋 Hi, I'm Divya Ponda
 
-### 👩🏽‍💻 Computer Engineering @ University of Michigan • Math Minor
+### 👩🏽‍💻 Computer Engineering @ University of Michigan
 
 ---
 
-I'm an engineer passionate about **systems**, **finance**, and **AI**.  
-Currently exploring **quant research**, **algorithmic trading**, and **real-time data infrastructure**.  
-I love breaking down complex problems — whether it’s debugging a segfault or optimizing a portfolio.
+Student at the University of Michigan College of Engineering. I am actively seeking internship roles that challenge me to solve for real-life multivariate problems. I am open to any opportunity in the fields of engineering, data science or quantitative development.
 
-💬 Ask me about quant modeling, startup product strategy, or any of my side projects!  
-📫 Reach me at: [divponda@umich.edu](mailto:divponda@umich.edu)
+Let’s talk research, product, or ideas worth building.
+📫 divponda@umich.edu
 
 ---
 
