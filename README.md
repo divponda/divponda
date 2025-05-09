@@ -29,7 +29,7 @@ Let’s talk research, product, or ideas worth building.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Want to Connect?
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divponda@umich.edu)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyaponda)
