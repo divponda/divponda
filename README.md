@@ -12,7 +12,7 @@ Right now, I’m:
 - Serving as VP of Operations at Michigan Investment Group, one of UMich’s top student funds
 - Supporting student founders and startup events through V1 Michigan
 
-If you're interested and want a copy of my resume, feel free to [reach out](mailto:divponda@umich.edu).
+If you're interested in learning more and would like a copy of my resume, feel free to [reach out](mailto:divponda@umich.edu).
 
 ---
 
