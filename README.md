@@ -43,7 +43,7 @@ Let’s talk research, product, or ideas worth building.
 
 ## 💼 What I'm Working On
 
-### 🏥 [Oaklet AI](https://oaklet.io)
+### 🏥 [Oaklet AI]([https://oaklet.io](https://www.tryoaklet.com/))
 > *Founding Backend Engineer for an AI-powered healthcare EHR platform*
 - Built secure MFA authentication using **AWS Cognito + Amplify**
 - Designed NoSQL schema and backend logic using **DynamoDB** and **AWS SDK v3**
