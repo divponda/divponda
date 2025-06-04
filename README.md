@@ -8,7 +8,7 @@ I'm a Computer Engineering student at the University of Michigan interested in b
 
 Right now, I’m:
 - Working at [Oaklet](https://www.tryoaklet.com), an AI-first EHR startup, where I’m building secure backend infrastructure and scalable auth systems using AWS
-- Doing quant research at ARC24 Capital, a credit hedge fund, analyzing portfolio performance and helping draft materials for institutional investors
+- Doing quant finance at ARC24 Capital, a credit hedge fund, analyzing portfolio performance and helping draft materials for institutional investors
 - Serving as VP of Operations at Michigan Investment Group, one of UMich’s top student funds
 - Supporting student founders and startup events through V1 Michigan
 
