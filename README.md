@@ -50,9 +50,3 @@ Here are a few things I’ve built or contributed to:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyaponda)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divponda@umich.edu)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://divponda.github.io)
-
----
-
-## 📊 GitHub Stats
-
-![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divponda&show_icons=true&theme=radical)
