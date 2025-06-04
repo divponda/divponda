@@ -9,7 +9,7 @@ I'm a Computer Engineering student at the University of Michigan interested in b
 Right now, I’m:
 - Working at [Oaklet](https://www.tryoaklet.com), an AI-first EHR startup, where I’m building secure backend infrastructure and scalable auth systems using AWS
 - Doing quant finance at ARC24 Capital, a credit hedge fund, analyzing portfolio performance and helping draft materials for institutional investors
-- Serving as VP of Operations at Michigan Investment Group, one of UMich’s top student funds
+- Serving as VP of Operations at [Michigan Investment Group]((https://www.michiganinvestmentgroup.com/)), one of UMich’s top student organizations, for the quantitative division. 
 - Supporting student founders and startup events through V1 Michigan
 
 If you're interested in learning more and would like a copy of my resume, feel free to [reach out](mailto:divponda@umich.edu).
