@@ -3,80 +3,86 @@
 </div>
 
 ## 👩🏽‍💻 Computer Engineering @ University of Michigan  
-**Backend Developer @ [Oaklet AI](https://www.tryoaklet.com/)** | **Quant Analyst @ ARC24 Capital**  
-**Venture Fellow @ V1 Michigan** | **Investment Analyst @ Michigan Investment Group**
+**Backend Engineer @ [Oaklet AI](https://www.tryoaklet.com/)** | **Quant Analyst @ ARC24 Capital**  
+**VP Operations @ Michigan Investment Group** | **Fellow @ V1 Michigan**
 
 ---
 
 ### 🧠 About Me
 
-Hi! I'm Divya — a technical builder with a business brain. I'm currently developing HIPAA-compliant infrastructure at a fast-growing healthtech startup, analyzing structured credit at a hedge fund, and helping scout and support early-stage startups through Michigan's top student-run venture orgs.
+I’m Divya — a backend-savvy, quant-curious builder who loves turning ambiguous problems into real-world systems.  
+I’ve forecasted markets, built scalable authentication flows, and optimized trading algorithms — all while still in college.  
 
-If it involves solving tough, ambiguous problems with smart people, I’m probably in.  
-📫 Reach me at **divponda@umich.edu**  
+Whether it’s an AI-powered healthtech MVP, neural volatility modeling, or a Pokémon route optimizer, I believe in building with purpose.  
+
+📫 **divponda@umich.edu** | [Portfolio](https://divponda.github.io)
 
 ---
 
-## 💼 Current Work
+## 💼 Experience Highlights
 
 ### 🏥 [Oaklet AI](https://www.tryoaklet.com/) — *Founding Backend Engineer*
-> AI-powered EHR platform making healthcare operations seamless  
-- Implemented **secure 2FA authentication** with AWS Cognito (SMS + TOTP) & Amplify  
-- Designed and deployed **DynamoDB schemas** for scalable record-keeping  
-- Architecting user management system & protected API routing with **AWS SDK v3**
+- Architecting secure, HIPAA-compliant infrastructure for Oaklet’s AI-first EHR platform
+- Integrated **AWS Cognito + Amplify** to enable SMS & TOTP-based 2FA  
+- Designed scalable NoSQL schemas and API routing using **AWS SDK v3 + DynamoDB**
 
-### 📊 ARC24 Capital — *Quantitative Research Intern*
-> Structured credit hedge fund focused on CLOs and private credit  
-- Built analytical models to evaluate **capital stack risk and tranche behavior**  
-- Conducted fund performance analysis (Sharpe, Volatility, Drawdowns)  
-- Created internal tooling to streamline **deal evaluation and LP reporting**
+### 📊 ARC24 Capital — *Incoming Quantitative Analyst Intern*
+- Joining a structured credit hedge fund specializing in **CLOs and private credit**
+- Focus on portfolio construction, risk modeling, and **credit stack analytics**
 
-### 🚀 V1 Michigan — *Venture Fellow*  
-> University of Michigan’s premier student-run venture org  
-- Helped source, evaluate, and support pre-seed startups alongside top VCs  
-- Built conviction through due diligence, thesis development, and founder interviews  
+### 📈 Michigan Investment Group — *VP Operations & Quantitative Analyst*
+- Led internal ops and coordinated firm-wide initiatives as Vice President
+- Developed a **neural network volatility predictor** to support equity strategies  
+- Built an optimized **limit order book simulator** in C++ to boost execution speed
 
-### 💸 Michigan Investment Group — *Public Equities Analyst*  
-> UM’s selective student-run investment fund  
-- Conducted **equity research** and valuation modeling on tech and consumer sectors  
-- Presented stock pitches and supported active portfolio management
+### 🚀 V1 Michigan — *Startup Fair & Logistics Lead*
+- Managed logistics for V1’s campus-wide Startup Career Fair (1500+ attendees)
+- Worked closely with early-stage founders and sourced promising student-led startups
 
 ---
 
-## 🛠️ Technical Skills
+## ⚒️ Technical Toolbox
 
 ### • Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### • Frameworks & Tools  
+### • Frameworks & Cloud  
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![AWS SDK](https://img.shields.io/badge/-AWS%20SDK-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify)
+![AWS SDK](https://img.shields.io/badge/-AWS%20SDK-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
-### • Data / ML  
+### • Data & Analytics  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau)
 
 ---
 
-## 🔍 Interests
+## 🧪 Notable Projects
 
-- Quant & risk modeling  
-- AI in healthcare  
-- Early-stage product & venture  
-- Anything that makes you say *“why hasn’t this been built yet?”*
+### 🎸 Juicy Jams  
+An educational music toy using real fruit as input devices  
+- Programmed on FPGA using Verilog and adaptive circuitry  
+- Presented to 100+ attendees with a cross-disciplinary team
+
+### 🧠 Quotr (GPT, Google Places, Vonage APIs)  
+AI event planner that automates vendor quote generation  
+- Used GPT-3 and external APIs to dynamically query businesses and compare services  
+- Built full-stack app with **React + Node.js**; demoed to 150+ people
+
+### 🧭 Pokémon Route Optimizer (C++)  
+- Simulates traversal paths using **TSP + Knapsack** heuristics on 3D game maps  
+- Designed for CLI interface with dynamic routing and event-based logic
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyaponda)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divponda@umich.edu)
@@ -84,6 +90,6 @@ If it involves solving tough, ambiguous problems with smart people, I’m probab
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divponda&show_icons=true&theme=radical)
