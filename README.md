@@ -1,95 +1,86 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hi+I'm+Divya+Ponda!;Backend+%7C+Quant+%7C+Builder+of+Cool+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=hey+there!+i'm+divya+ponda;backend+%7C+quant+%7C+builder+of+weird+useful+things" alt="Typing SVG" />
 </div>
 
-## 👩🏽‍💻 Computer Engineering @ University of Michigan  
-**Backend Engineer @ [Oaklet AI](https://www.tryoaklet.com/)** | **Quant Analyst @ ARC24 Capital**  
-**VP Operations @ Michigan Investment Group** | **Fellow @ V1 Michigan**
+## 👋 hey, i'm divya
+
+i study computer engineering at the university of michigan — currently working on backend infrastructure at [oaklet](https://www.tryoaklet.com), an ehr startup, and joining arc24 capital this summer to do quant research on structured credit.
+
+i like shipping stuff that works, thinking through messy problems, and teaming up with people who care. open to anything at the intersection of engineering, product, and markets.
+
+reach me at **divponda@umich.edu** or [linkedin](https://linkedin.com/in/divyaponda).
 
 ---
 
-### 🧠 About Me
+## 🧠 what i'm up to
 
-I’m Divya — a backend-savvy, quant-curious builder who loves turning ambiguous problems into real-world systems.  
-I’ve forecasted markets, built scalable authentication flows, and optimized trading algorithms — all while still in college.  
+### 🏥 [oaklet](https://www.tryoaklet.com) – backend engineer (may 2025 – now)
+- building the backend for oaklet’s ehr platform from scratch — auth, data models, api routing
+- integrated 2fa (sms + totp) using **aws cognito**, **amplify**, and **sdk v3**
+- setting up **dynamodb** schemas and secure routes for user + org-level access
 
-Whether it’s an AI-powered healthtech MVP, neural volatility modeling, or a Pokémon route optimizer, I believe in building with purpose.  
+### 📊 arc24 capital – quant intern (incoming, summer 2025)
+- joining a credit-focused hedge fund working across public and private markets
+- will be working on portfolio analytics, capital stack modeling, and fixed income research
 
-📫 **divponda@umich.edu** | [Portfolio](https://divponda.github.io)
+### 💸 michigan investment group – vp ops + quant analyst
+- run ops for michigan’s student-run investment fund (100+ members)
+- built a **volatility prediction model** using neural nets and market data
+- implemented a **limit order book simulator** in c++ to test execution strategies
 
----
-
-## 💼 Experience Highlights
-
-### 🏥 [Oaklet AI](https://www.tryoaklet.com/) — *Founding Backend Engineer*
-- Architecting secure, HIPAA-compliant infrastructure for Oaklet’s AI-first EHR platform
-- Integrated **AWS Cognito + Amplify** to enable SMS & TOTP-based 2FA  
-- Designed scalable NoSQL schemas and API routing using **AWS SDK v3 + DynamoDB**
-
-### 📊 ARC24 Capital — *Incoming Quantitative Analyst Intern*
-- Joining a structured credit hedge fund specializing in **CLOs and private credit**
-- Focus on portfolio construction, risk modeling, and **credit stack analytics**
-
-### 📈 Michigan Investment Group — *VP Operations & Quantitative Analyst*
-- Led internal ops and coordinated firm-wide initiatives as Vice President
-- Developed a **neural network volatility predictor** to support equity strategies  
-- Built an optimized **limit order book simulator** in C++ to boost execution speed
-
-### 🚀 V1 Michigan — *Startup Fair & Logistics Lead*
-- Managed logistics for V1’s campus-wide Startup Career Fair (1500+ attendees)
-- Worked closely with early-stage founders and sourced promising student-led startups
+### 🚀 v1 michigan – startup fair + logistics lead
+- helped plan one of the largest student-run startup fairs in the country
+- organized logistics and vendor coordination for 1500+ attendees and 50+ startups
 
 ---
 
-## ⚒️ Technical Toolbox
+## 🛠️ stack
 
-### • Languages  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+### languages  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-### • Frameworks & Cloud  
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
-![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify)
-![AWS SDK](https://img.shields.io/badge/-AWS%20SDK-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+### frameworks + tools  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=awsamplify)
+![AWS SDK](https://img.shields.io/badge/AWS_SDK-232F3E?style=flat&logo=amazonaws)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb)
 
-### • Data & Analytics  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau)
-
----
-
-## 🧪 Notable Projects
-
-### 🎸 Juicy Jams  
-An educational music toy using real fruit as input devices  
-- Programmed on FPGA using Verilog and adaptive circuitry  
-- Presented to 100+ attendees with a cross-disciplinary team
-
-### 🧠 Quotr (GPT, Google Places, Vonage APIs)  
-AI event planner that automates vendor quote generation  
-- Used GPT-3 and external APIs to dynamically query businesses and compare services  
-- Built full-stack app with **React + Node.js**; demoed to 150+ people
-
-### 🧭 Pokémon Route Optimizer (C++)  
-- Simulates traversal paths using **TSP + Knapsack** heuristics on 3D game maps  
-- Designed for CLI interface with dynamic routing and event-based logic
+### data / ml  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau)
 
 ---
 
-## 🌐 Let’s Connect
+## 🧪 side projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyaponda)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divponda@umich.edu)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://divponda.github.io)
+### 🎸 juicy jams  
+- built a fruit-powered musical toy using fpgas + verilog  
+- demoed to 100+ people after live debugging a banana
+
+### 🤖 quotr  
+- full-stack ai app that automates event planning (gpt + google/vonage apis)
+- generates vendor quotes and organizes replies — react + node.js
+
+### 🧭 pokémon route optimizer  
+- built a tsp + knapsack simulator in c++ to model efficient traversal
+- command line output with dynamic optimization and pathing logic
 
 ---
 
-## 📊 GitHub Stats
+## 📫 connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyaponda)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:divponda@umich.edu)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://divponda.github.io)
+
+---
+
+## 📊 github stats
 
 ![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divponda&show_icons=true&theme=radical)
