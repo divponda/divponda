@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Divya+Ponda;Backend+Engineer+%7C+Quant+Researcher+%7C+UMich+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Divya+Ponda;Backend+Engineer+%7C+Quant+%7C+UMich+Student" alt="Typing SVG" />
 </div>
 
 ## 👋 Hi, I'm Divya!
 
-I'm a Computer Engineering student at the University of Michigan interested in backend systems, quant research, and building things people actually use.
+I'm a Computer Engineering student at the University of Michigan interested in backend systems, quant, and building things people actually use.
 
 Right now, I’m:
 - Working at [Oaklet](https://www.tryoaklet.com), an AI-first EHR startup, where I’m building secure backend infrastructure and scalable auth systems using AWS
