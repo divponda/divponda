@@ -2,21 +2,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Divya+Ponda;+Engineer+%7C+Quant+%7C+UMich+Student" alt="Typing SVG" />
 </div>
 
-## 👋 Hi, I'm Divya!
+## Hey I'm Divya!
 
-I'm a Computer Engineering student at the University of Michigan interested in backend systems, quant, and building things people actually use.
+I'm a CS student at the University of Michigan's College of Engineering interested in backend systems, quant, and building things people actually use.
 
-Right now, I’m:
-- Working at [Oaklet](https://www.tryoaklet.com), an AI-first EHR startup, where I’m building secure backend infrastructure and scalable auth systems using AWS
-- Doing quant finance at ARC24 Capital, a credit hedge fund, analyzing portfolio performance and helping draft materials for institutional investors
-- Serving as VP of Operations at [Michigan Investment Group]((https://www.michiganinvestmentgroup.com/)), one of UMich’s top student organizations, for the quantitative division. 
-- Supporting student founders and startup events through V1 Michigan
+Right now, I:
+- Just wrapped up working at [Oaklet](https://www.tryoaklet.com), an AI-first EHR startup, where I’m building secure backend infrastructure and scalable auth systems using AWS
+- Completed quant finance at ARC24 Capital, a credit hedge fund, analyzing portfolio performance and helping draft materials for institutional investors
+- Am VP of Operations at [Michigan Investment Group]((https://www.michiganinvestmentgroup.com/)), one of UMich’s top student organizations, for the quantitative division. 
+- Am Supporting student founders and startup events through V1 Michigan
 
 If you're interested in learning more and would like a copy of my resume, feel free to [reach out](mailto:divponda@umich.edu).
 
 ---
 
-## 🛠️ Tech I Work With
+## Tech I Work With
 
 ### Languages  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,7 +35,7 @@ If you're interested in learning more and would like a copy of my resume, feel f
 
 ---
 
-## 🧪 Projects
+## Projects
 
 Here are a few things I’ve built or contributed to:
 
@@ -45,7 +45,7 @@ Here are a few things I’ve built or contributed to:
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyaponda)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divponda@umich.edu)
