@@ -7,7 +7,7 @@
 I'm a CS student at the University of Michigan's College of Engineering interested in backend systems, quant, and building things people actually use.
 
 Right now, I:
-- Just wrapped up working at [Oaklet](https://www.tryoaklet.com), an AI-first EHR startup, where I’m building secure backend infrastructure and scalable auth systems using AWS
+- Just wrapped up working at [Oaklet](https://www.oaklet.com), an AI-first EHR startup, where I’m building secure backend infrastructure and scalable auth systems using AWS
 - Completed quant finance at ARC24 Capital, a credit hedge fund, analyzing portfolio performance and helping draft materials for institutional investors
 - Am VP of Operations at [Michigan Investment Group]((https://www.michiganinvestmentgroup.com/)), one of UMich’s top student organizations, for the quantitative division. 
 - Am Supporting student founders and startup events through V1 Michigan
